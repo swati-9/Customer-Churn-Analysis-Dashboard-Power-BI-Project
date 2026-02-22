@@ -46,7 +46,7 @@ The following steps were performed:
 
 ## 📊 Dashboard Preview
 
-![Customer Churn Dashboard](dashboard.png)
+![Customer Churn Dashboard](dashboard.png.png)
 
 ## 🛠 Tools & Technologies
 - Power BI Desktop
